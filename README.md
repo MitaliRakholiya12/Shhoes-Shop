@@ -10,7 +10,7 @@ A modern, responsive sneaker store UI built with HTML & CSS. Clean dark aestheti
 
 ## 📸 Preview
 
-![Sneakers Website Preview](./sneakers-preview.png)
+![Sneakers Website Preview](./sneakers-preview.jpeg)
 
 ---
 
